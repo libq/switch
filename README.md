@@ -10,14 +10,15 @@
 	}
 ```
 <h3>Step 2. Add the dependency</h3>
+
 ```
-dependencies {
+     dependencies {
             compile 'com.github.libq:switch:1.0.0'
 	}
 ```
 
 
-#detail
+
 
   
 
