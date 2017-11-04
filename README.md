@@ -1,1 +1,1 @@
-# switch
+# the simple switch button
